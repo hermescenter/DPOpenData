@@ -15,7 +15,7 @@ The full list of EU's DPA and their corresponding contact is available at https:
 
 The action group will coordinate trough a [Telegram Group Chat](https://t.me/DPOpenData)
 
-# Action Plan
+## Action Plan
 The action plan of the project works as above
 a) Preliminarly develop the mapping schema
 b) Engage and coordinate country-level EDRi NGO members requesting a support 
@@ -23,9 +23,27 @@ c) Develop a common FOIA request and send them to all the DPA
 d) Keep tracks of the requests/responses 
 
 
-# Data Processors and DPO Open Data
+## Data Processors and DPO Open Data
 Below the index for mapping and tracking all the Open Data resources relevant to the project outcome
 
 | Country | Website | Open Data Site | Open Data Feed|
 |---------|---------|----------------|---------------|
 | France | https://www.cnil.fr | https://www.cnil.fr/fr/opendata | https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
+
+## License
+
+The project intends to produce [Open Data](https://opendefinition.org/) through [Free Cultural Works](https://freedomdefined.org/Definition) and [Free Software](https://www.gnu.org/philosophy/free-sw.html)
+
+Copyright 2022 DPOpenData contributors and Associazione Hermes
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
