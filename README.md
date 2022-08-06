@@ -24,5 +24,6 @@ d) Keep tracks of the requests/responses
 # Data Processors and DPO Open Data
 Below the index for mapping and tracking all the Open Data resources relevant to the project outcome
 
-| Country | Website  | Open Data Site | Open Data Feed
+| Country | Website | Open Data Site | Open Data Feed|
+|---------|---------|----------------|---------------|
 | France | https://www.cnil.fr | https://www.cnil.fr/fr/opendata | https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
