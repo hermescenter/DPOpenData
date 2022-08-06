@@ -13,6 +13,8 @@ The DPOpenData project aim to:
 
 The full list of EU's DPA and their corresponding contact is available at https://www.gdprregister.eu/gdpr/dpa-gdpr/ .
 
+The action group will coordinate trough a [Telegram Group Chat](https://t.me/DPOpenData)
+
 # Action Plan
 The action plan of the project works as above
 a) Preliminarly develop the mapping schema
