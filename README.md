@@ -35,7 +35,7 @@ Below the index for mapping and tracking all the Open Data resources relevant to
 Below the tracking of FOIA requests to access the dataset
 
 | Country | Website | FOIA Request | Recipient | Date | Who |
-|---------|---------|----------------|---------------|---------------|
+|---------|---------|----------------|---------------|---------------|---------------|
 | Italy | https://www.garanteprivacy.it/ | [IT-FOIA-06-08-2022.md](IT-FOIA-06-08-2022.md) | protocollo@pec.gpdp.it | 06-08-2022 | Hermes Center|
 
 
