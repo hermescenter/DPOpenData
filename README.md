@@ -17,9 +17,13 @@ The action group will coordinate trough a [Telegram Group Chat](https://t.me/DPO
 
 ## Action Plan
 The action plan of the project works as above
+
 a) Preliminarly develop the mapping schema
+
 b) Engage and coordinate country-level EDRi NGO members requesting a support 
+
 c) Develop a common FOIA request and send them to all the DPA
+
 d) Keep tracks of the requests/responses 
 
 
