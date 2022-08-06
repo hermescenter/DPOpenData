@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: DPOpenData
+Upstream-Contact: Hermes Center <>
+Source: https://github.com/hermescenter/DPOpenData
+
+Files: *.md
+Copyright: $YEAR $NAME <$CONTACT>
+License: Apache-2.0
+
+Files: *.csv
+Copyright: $YEAR $NAME <$CONTACT>
+License: CC0-1.0
