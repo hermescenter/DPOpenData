@@ -30,6 +30,16 @@ Below the index for mapping and tracking all the Open Data resources relevant to
 |---------|---------|----------------|---------------|
 | France | https://www.cnil.fr | https://www.cnil.fr/fr/opendata | https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
 
+## FOIA Requests
+
+Below the tracking of FOIA requests to access the dataset
+
+| Country | Website | FOIA Request | Date | Who |
+|---------|---------|----------------|---------------|---------------|
+| Italy | https://www.garanteprivacy.it/ | [IT-FOIA-06-08-2022.md](IT-FOIA-06-08-2022.md) | 06-08-2022 | Hermes Center|
+
+
+
 ## License
 
 The project intends to produce [Open Data](https://opendefinition.org/) through [Free Cultural Works](https://freedomdefined.org/Definition) and [Free Software](https://www.gnu.org/philosophy/free-sw.html)
