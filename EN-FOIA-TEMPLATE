@@ -1,26 +1,31 @@
 Freedom of Information Act Request for Data Processors and DPO Contacts collected by the Data Protection Authority
 
+Addressed to:
+- TODO: List all the DPA and their contact
+
 PREMISE
 
-Pursuant to Article 37 paragraph 1 letter a and part 7 of the GDPR, Data Controllers must notify the DPO, and for this purpose the GDPR has set up special telematic modes of communication referred to at https://servizi.gpdp.it/comunicazionerpd/s/ .
+Pursuant to Article 37 paragraph 1 letter a and part 7 of the GDPR, Data Controllers must notify their appointed DPO and related contact to the DPO, and for this purpose all the DPA (Data Protection Authoruty) of Europe has established practice to notify and update such data.
 
-It is worth mentioning that the French Data Protection Authority (CNIL) has already arranged for the automatic publication, in OpenData, of all Data Controllers who have disclosed the DPO, via dataset accessible at https://www.cnil.fr/fr/opendata.
+It is worth mentioning that the French Data Protection Authority (CNIL) has already arranged for the automatic publication in OpenData, of all Data Controllers who have appointed a DPO, via dataset accessible at https://www.cnil.fr/fr/opendata.
 
-Il Centro Hermes per la Trasparenza e i Diritti Umani Digitali si porta promotore della iniziativa di liberare tali dataset da parte di tutte le DPA (Data Protection Authority Europee) avviando il progetto DPOpenData (Project to have European DPA to release all Data Processors and their DPO contact as OpenData https://github.com/hermescenter/DPOpenData) invitando le medesime a seguire il virtuoso esempio del CNIL e richiedendone l’accesso per tramite dei diritti di accesso civico generalizzato (FOIA).
+The Hermes Center for Transparency and Digital Human Rights is promoting the initiative to release such datasets from all European Data Protection Authorities (DPAs) by initiating the DPOpenData project (Project to have European DPAs to release all Data Processors and their DPO contact as OpenData https://github.com/hermescenter/DPOpenData) inviting them to follow the virtuous example of CNIL and requesting access through Generalized Civic Access Rights (FOIA).
 
-The Hermes Center for Transparency and Digital Human Rights is taking the lead in the initiative to release such datasets from all European Data Protection Authorities (DPAs) by initiating the DPOpenData project (Project to have European DPAs to release all Data Processors and their DPO contact as OpenData https://github.com/hermescenter/DPOpenData) inviting them to follow the virtuous example of CNIL and requesting access through Generalized Civic Access Rights (FOIA).
+Freedom of Information Act (FOIA) REQUEST
 
-Translated with www.DeepL.com/Translator (free version)
+Given the premises above, we are requesting request access to the computer document representing the data communicated by the Data Controllers through the DPA's IT procedure of communication of the DPO.
 
-REQUEST FOR GENERALIZED CIVIC ACCESS
+It's worth mentioning that the Data Processor and Data Protion Officer contact are already mandatory public information, required to be published by the Data Controller and/or Data Processor to ensure the exercise of rights to the data subject.
 
-Given the premises at the bottom, we are to request access to the computer document representing the data communicated by the Data Controllers through the procedure of "communicazionerpd", which are already obligation to publish by the Data Controller and/or Data Processor to ensure the exercise of rights to the data subject and that is starting from the "MODEL COMMUNICATION TO THE DPO DATA CONTROLLER":
+Specifically, accordingly to the FOIA request hereby subscribed, the information requested are the following:
 
-- Data of the Data Controller: Entity Name, VAT number, Address, City, Postal code, Province, Telephone, Email, Pec, Website
+- Data of the Data Controller: Entity Name, VAT number, Address, City, Postal code, Province, Telephone, Email, Website
 
 - Data of the Data Protection Officer: 
-  - Whether the disclosed DPO is a natural person or legal entity.
-  - Whether the disclosed DPO is internal or external
-  - If the DPO is a natural person, Email and/or Pec is required (as it is already a publication obligation for the purpose of the exercise of data subjects)  
-  - If the DPO is a legal person, it requires Entity Name, Address, City, Postal Code, Province, Telephone, Email, Pec, Website
+  - Whether the appointed DPO is a physical person or legal entity.
+  - Whether the appointed DPO is internal or external
+  - If the DPO is a physical person, the data requested are the contacts (Email and/or phone number)
+  - If the DPO is a legal entity, the data requested are Entity Name, Address, City, Postal Code, Province, Telephone, Email, Website
   - Method of publication of the DPO's Contact Details.
+
+The FOIA requests is assumed to properly answered by the publishing of the aforementioned data as an OpenData set on the DPA corrisponding website.
