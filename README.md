@@ -5,7 +5,7 @@ The French DPA (CNIL) released an Open Data set made of Data Processors (the pri
 
 That enable a variety of actions facilitating the enforcement of citizens GDPR rights.
 
-The DPOpenData project aim to:
+The DPOpenData project aims to:
 
 1. Lobby on all the EU's DPA to proactively follow the CNIL's example releasing the same OpenData set
 2. Lobby the EDPB (European Data Proection Board) to define a common OpenData standard to facilitate aggregation of OpenData
