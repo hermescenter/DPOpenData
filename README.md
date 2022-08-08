@@ -20,9 +20,9 @@ The action plan of the project works as above
 
 a) Preliminarly develop the mapping schema
 
-b) Engage and coordinate country-level EDRi NGO members requesting a support 
+b) Involve and coordinate the members of [EDRi NGOs](https://edri.org/about-us/our-network/) at national level.
 
-c) Develop a common FOIA request and send them to all the DPA
+c) Support NGOs in drafting a specific FOIA for the relevant countries and send it to the DPAs
 
 d) Keep tracks of the requests/responses 
 
