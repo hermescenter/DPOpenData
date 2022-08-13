@@ -11,7 +11,7 @@ The DPOpenData project aims to:
 2. Lobby the EDPB (European Data Proection Board) to define a common OpenData standard to facilitate aggregation of OpenData
 2. Issue a FOIA (Freedom of Information Act) request to all the DPA to requests the above mentioned data to get public
 
-The full list of EU's DPA and their corresponding contact is available at https://www.gdprregister.eu/gdpr/dpa-gdpr/ .
+The full list of EU's DPAs and their corresponding contacts is available at https://edpb.europa.eu/about-edpb/about-edpb/members_en .
 
 The action group will coordinate trough a [Telegram Group Chat](https://t.me/DPOpenData)
 
