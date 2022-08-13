@@ -67,7 +67,7 @@ Below the tracking of FOIA requests to be done to access the dataset
 | Lithuania | State Data Protection Inspectorate | ada@ada.lt | http://www.ada.lt/ | [LT-FOIA-TEMPLATE.md](LT-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
 | Luxembourg | Commission Nationale pour la Protection des Données | info@cnpd.lu | http://www.cnpd.lu/ | [LU-FOIA-TEMPLATE.md](LU-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
 | Malta | Office of the Information and Data Protection Commissioner | idpc.info@idpc.org.mt | http://www.idpc.org.mt/ | [MT-FOIA-TEMPLATE.md](MT-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
-| Netherlands | Autoriteit Persoonsgegevens |  | https://autoriteitpersoonsgegevens.nl/nl | [NL-FOIA-TEMPLATE.md](NL-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
+| Netherlands | Autoriteit Persoonsgegevens | pers@autoriteitpersoonsgegevens.nl | https://autoriteitpersoonsgegevens.nl/nl | [NL-FOIA-TEMPLATE.md](NL-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
 | Poland | Urząd Ochrony Danych Osobowych (Personal Data Protection Office) | kancelaria@uodo.gov.pl; zwme@uodo.gov.pl | https://uodo.gov.pl/ | [PL-FOIA-TEMPLATE.md](PL-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
 | Portugal | Comissão Nacional de Protecção de Dados – CNPD | geral@cnpd.pt | http://www.cnpd.pt/ | [PT-FOIA-TEMPLATE.md](PT-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
 | Romania | The National Supervisory Authority for Personal Data Processing | anspdcp@dataprotection.ro | http://www.dataprotection.ro/ | [RO-FOIA-TEMPLATE.md](RO-FOIA-TEMPLATE.md) | XX-XX-2022 | GO/Person requesting it |
